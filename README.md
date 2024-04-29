@@ -7,5 +7,4 @@
 - [Wifi Standards](https://paulius.uk/posts/2024/wifi-standards/)
 
 ### 📫 How to reach me:
-  - Website   : <https://paulius.uk>
   - Contact Form   : <https://paulius.uk/contact>

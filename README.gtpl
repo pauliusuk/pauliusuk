@@ -4,7 +4,6 @@
 {{- end }}
 
 ### 📫 How to reach me:
-  - Website   : <https://paulius.uk>
   - Contact Form   : <https://paulius.uk/contact>
 
 
